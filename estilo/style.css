@@ -30,7 +30,7 @@ header > h1{
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte02);
-    font-size: 5vw;
+    font-size: 10vw;
 }
 header > p{
     padding-bottom: 50px;
